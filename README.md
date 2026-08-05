@@ -11,13 +11,14 @@
 <br/>
 
 <!-- ===================== NAV / QUICK LINKS ===================== -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hiteshjha.carrd.co/)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-jha2003/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjha03144@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=HiteshJha&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=hiteshjha2003&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -37,6 +38,7 @@
 </table>
 
 ### 🎯 Current Focus
+
 ```diff
 + Agentic AI & Multi-Agent Orchestration (LangGraph, ReAct, CrewAI)
 + Enterprise-Scale Agentic RAG (1M+ document corpora)
@@ -51,15 +53,15 @@
 
 <div align="center">
 
-| Metric | Status |
-|---|---|
-| **Arabic LLM Faithfulness (BERTScore)** | `██████████` 94% |
-| **RLHF Summarization (ROUGE-L)** | `██████████` 95% |
-| **Predictive Maintenance Classifier Accuracy** | `██████████` 94% |
-| **Model Compression (Quantization)** | `4x` size reduction, `<2%` accuracy loss |
-| **Embedding Throughput** | `50K` embeddings / sec |
-| **Retrieval Corpus Scale** | `1M+` documents indexed |
-| **Robotic Telemetry Streams** | `50+` units, real-time via Kafka |
+| Metric                                         | Status                                   |
+| ---------------------------------------------- | ---------------------------------------- |
+| **Arabic LLM Faithfulness (BERTScore)**        | `██████████` 94%                         |
+| **RLHF Summarization (ROUGE-L)**               | `██████████` 95%                         |
+| **Predictive Maintenance Classifier Accuracy** | `██████████` 94%                         |
+| **Model Compression (Quantization)**           | `4x` size reduction, `<2%` accuracy loss |
+| **Embedding Throughput**                       | `50K` embeddings / sec                   |
+| **Retrieval Corpus Scale**                     | `1M+` documents indexed                  |
+| **Robotic Telemetry Streams**                  | `50+` units, real-time via Kafka         |
 
 </div>
 
@@ -99,6 +101,7 @@ flowchart TD
 <td width="50%" valign="top">
 
 ### 🧩 Agentic RAG System — Multi-Source Retrieval
+
 **Autonomous query planning + specialized retrieval agents**
 
 `Python` `LangChain` `LlamaIndex` `ChromaDB` `Gemini` `Claude` `FastAPI` `Next.js` `WebSocket`
@@ -112,6 +115,7 @@ flowchart TD
 <td width="50%" valign="top">
 
 ### 📊 RAG Evaluation Framework
+
 **Automated, MLflow-integrated evaluation pipeline**
 
 `Python` `RAGAS` `LangChain` `Sentence-Transformers` `Pandas` `MLflow` `Pytest`
@@ -127,6 +131,7 @@ flowchart TD
 <td width="50%" valign="top">
 
 ### ⚙️ Industrial Robots Predictive Maintenance & Classifier
+
 **Real-time telemetry from 50+ robotic units**
 
 `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `Optuna` `PySpark` `Airflow` `FastAPI` `Grafana`
@@ -140,6 +145,7 @@ flowchart TD
 <td width="50%" valign="top">
 
 ### 🕌 Sovereign Arabic LLM Platform — KSA-NLP-360
+
 **Llama-3-70B fine-tuned for domain-specific Arabic NLP**
 
 `Llama-3-70B` `LoRA` `QLoRA` `DeepSpeed ZeRO-3` `FlashAttention-2`
@@ -159,15 +165,15 @@ flowchart TD
 
 <div align="center">
 
-| Domain | Proficiency |
-|---|---|
-| **LLMs & Generative AI** | `█████████████` |
-| **Agentic AI / Multi-Agent Systems** | `██████████████` |
-| **RAG & Retrieval Systems** | `██████████████` |
-| **GPU & Distributed Training (CUDA/DeepSpeed)** | `██████████` |
-| **MLOps & Deployment** | `████████████` |
-| **Classical ML / Data Science** | `█████████████` |
-| **Deep Learning (PyTorch/TensorFlow)** | `██████████████` |
+| Domain                                          | Proficiency      |
+| ----------------------------------------------- | ---------------- |
+| **LLMs & Generative AI**                        | `█████████████`  |
+| **Agentic AI / Multi-Agent Systems**            | `██████████████` |
+| **RAG & Retrieval Systems**                     | `██████████████` |
+| **GPU & Distributed Training (CUDA/DeepSpeed)** | `██████████`     |
+| **MLOps & Deployment**                          | `████████████`   |
+| **Classical ML / Data Science**                 | `█████████████`  |
+| **Deep Learning (PyTorch/TensorFlow)**          | `██████████████` |
 
 </div>
 
@@ -246,15 +252,15 @@ timeline
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HiteshJha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshJha&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hiteshjha2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshjha2003&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshJha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshjha2003&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshJha&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshjha2003&theme=tokyo-night&hide_border=true" width="95%"/>
 
 <!-- Contribution Snake — requires the snake workflow action enabled on this repo -->
-<img src="https://raw.githubusercontent.com/HiteshJha/HiteshJha/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/hiteshjha2003/hiteshjha2003/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
 > ℹ️ To activate the contribution snake above, add the `platane/snk` GitHub Action to a workflow in this repo — see [setup notes](#-snake-animation-setup) below.
@@ -265,7 +271,7 @@ timeline
 
 **Bachelor of Science in Computer Science**
 Savitribai Phule Pune University, Pune, India
-*Coursework: Machine Learning · Deep Learning · NLP · Data Structures & Algorithms · Database Systems · System Design · Statistics & Mathematics*
+_Coursework: Machine Learning · Deep Learning · NLP · Data Structures & Algorithms · Database Systems · System Design · Statistics & Mathematics_
 
 ---
 
@@ -275,50 +281,13 @@ Savitribai Phule Pune University, Pune, India
 
 [![Email](https://img.shields.io/badge/hjha03144@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjha03144@gmail.com)
 [![Phone](https://img.shields.io/badge/+91_8446049402-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-jha2003/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiteshjha2003)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
 
 ---
-
-### 🐍 Snake Animation Setup
-<details>
-<summary>Click to expand — one-time GitHub Action setup</summary>
-
-Create `.github/workflows/snake.yml` in this profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Replace `HiteshJha` in the image URLs above with your actual GitHub username once the workflow runs.
 
 </details>
